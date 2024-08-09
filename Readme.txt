@@ -1,1 +1,3 @@
-Home Page for Element Acquisitions
+Home Page for Element Acquisitions - investment firm concept.
+
+Web development practice project.
